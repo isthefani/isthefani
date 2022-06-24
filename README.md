@@ -1,11 +1,10 @@
-# Oi! Bem-vindo(a) ao meu perfil!
+# Olá! Bem-vindo(a) ao meu perfil! =]
 
-- 🎓 Atualmente estudo Sistemas para Internet no UNIESP
-- 🌱 Estou aprendendo Python, HTML, CSS e JavaScript
-- 👩‍💻 Me interesso na área de Ciência de Dados e IA
-- ⚡ “Você pode criar qualquer coisa: basta escrever” – C. S. Lewis
+     🎓 Atualmente estudo Sistemas para Internet no UNIESP
+     🌱 Estou aprendendo Python, HTML, CSS e JavaScript
+     👩‍💻 Me interesso na área de Ciência de Dados e IA
+     ⚡ “Você pode criar qualquer coisa: basta escrever” – C. S. Lewis
 
-  ##
 
 <div align="center">
   <img align="center" alt="Rafa-Python" height="60" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
