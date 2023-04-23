@@ -1,6 +1,6 @@
 # Olá! Bem-vindo(a) ao meu perfil! =]
 
-🎓 Atualmente estudo Sistemas para Internet no UNIESP                      
+🎓 Atualmente estudo Sistemas para Internet no Centro Universitário UNIESP                      
 🌱 Estou aprendendo JavaScript e Java                            
 👩‍💻 Me interesso na área de Ciência de Dados e IA                        
 ⚡ “Você pode criar qualquer coisa: basta escrever” – C. S. Lewis
